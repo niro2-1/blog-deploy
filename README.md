@@ -50,3 +50,12 @@ To deploy the project, follow these steps:
   ```bash
   npm test
   ```
+
+## Secret-Key Rotation Procedure
+- To rotate your AWS_SECRET_ACCESS_KEY, follow these steps:
+  1. Go to the AWS IAM console.
+  2. Select the user whose keys you want to rotate.
+  3. Create a new access key and download the key file.
+  4. Update your application to use the new key.
+  5. Delete the old access key once the new key is confirmed to be working.
+
