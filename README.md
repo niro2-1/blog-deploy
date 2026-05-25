@@ -10,6 +10,8 @@ To deploy the project, follow these steps:
    npm run build
    ```
 
+   **Build Issue**: If you encounter an error during the build process, ensure that all dependencies are correctly installed and check for any missing environment variables.
+
 2. **Choose a Hosting Provider**: You can deploy the build folder to any static site hosting service like Vercel, Netlify, or GitHub Pages.
 
 3. **Upload Build Folder**: Upload the contents of the `build` folder to your chosen hosting provider.
