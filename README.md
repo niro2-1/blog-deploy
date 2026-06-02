@@ -59,3 +59,14 @@ To deploy the project, follow these steps:
   4. Update your application to use the new key.
   5. Delete the old access key once the new key is confirmed to be working.
 
+## API 500 Error
+
+If you encounter an API 500 Error, it typically indicates a server-side issue. Check the server logs for more details and ensure that the API is functioning correctly. If the issue persists, consider reaching out for support or consulting the documentation for troubleshooting steps.
+
+### Troubleshooting Steps:
+1. Verify server status and uptime.
+2. Check for recent code changes that may have introduced the error.
+3. Review server logs for error messages or stack traces.
+4. Ensure all dependencies are correctly installed and up to date.
+5. Test the API endpoint with different parameters to isolate the issue.
+6. If the problem continues, consider rolling back recent changes or restoring from a backup.
