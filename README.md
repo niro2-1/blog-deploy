@@ -1,5 +1,6 @@
-# blog-deploy
-GitHub Actions workflow that builds blog-site and deploys to S3+CloudFront.
+# Blog Deploy
+
+Fixed issue #5 with new syntax.
 
 ## Deployment Instructions
 
@@ -58,4 +59,3 @@ To deploy the project, follow these steps:
   3. Create a new access key and download the key file.
   4. Update your application to use the new key.
   5. Delete the old access key once the new key is confirmed to be working.
-
