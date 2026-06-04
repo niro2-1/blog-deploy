@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+*.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+.tox
+*.orig
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
