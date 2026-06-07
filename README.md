@@ -59,3 +59,7 @@ To deploy the project, follow these steps:
   3. Create a new access key and download the key file.
   4. Update your application to use the new key.
   5. Delete the old access key once the new key is confirmed to be working.
+
+## Staging Environment
+
+To set up a staging environment, follow the instructions in the [blog-site repository](https://github.com/niro2-1/blog-site) under the `docs/staging-environment.md` file.
