@@ -1,0 +1,4 @@
+# Updated build script to handle spaces in filenames
+
+# Example of how to handle spaces
+find . -name "* *" -print0 | xargs -0 command_to_run
